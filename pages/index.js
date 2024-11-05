@@ -58,7 +58,7 @@ export default function Home() {
       <AppBar position="relative">
         <Toolbar>
           <Typography variant="h6" color="inherit" noWrap>
-            We Love Quotes
+            {"Great Breaking Bad Quotes"}
           </Typography>
         </Toolbar>
       </AppBar>
